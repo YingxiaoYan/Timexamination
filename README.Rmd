@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 The goal of Timexamination is to ...
 
 ## Installation
-
+You can do other stuff
 You can install the development version of Timexamination from [GitHub](https://github.com/) with:
 
 ``` r
