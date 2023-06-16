@@ -10,8 +10,8 @@ The goal of Timexamination is to …
 
 ## Installation
 
-You can install the devewvewapeeåaripeanvrgnaolblopment version of
-Timexamination from [GitHub](https://github.com/) with:
+You can install the development version of Timexamination from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
