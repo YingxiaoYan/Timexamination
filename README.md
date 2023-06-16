@@ -10,8 +10,8 @@ The goal of Timexamination is to …
 
 ## Installation
 
-You can do other stuff You can install the development version of
-Timexamination from [GitHub](https://github.com/) with:
+This is shit. You can install the development version of Timexamination
+from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
